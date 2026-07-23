@@ -2,6 +2,7 @@ import img1 from "../assets/petspa.png";
 import img2 from "../assets/quiz.png";
 import img3 from "../assets/ai_website.png";
 import img4 from "../assets/allavia_dashboard.png";
+import img5 from "../assets/ecommerce.png";
 
 export const projects = [
   {
@@ -31,5 +32,12 @@ export const projects = [
     title: "Dashboard (NDA)",
     skills: "React, Tailwind, Vercel",
     url: "Under NDA",
+  },
+  {
+    id: 5,
+    img: img5,
+    title: "E-commerce App",
+    skills: "React, Tailwind, Vercel",
+    url: "https://ecommerce-app-seven-indol.vercel.app/",
   },
 ];
