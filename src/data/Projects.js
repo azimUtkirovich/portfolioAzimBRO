@@ -3,6 +3,7 @@ import img2 from "../assets/quiz.png";
 import img3 from "../assets/ai_website.png";
 import img4 from "../assets/allavia_dashboard.png";
 import img5 from "../assets/ecommerce.png";
+import img6 from "../assets/inteo.png";
 
 export const projects = [
   {
@@ -42,7 +43,7 @@ export const projects = [
   },
   {
     id: 6,
-    img: img5,
+    img: img6,
     title: "INTEO Website",
     skills: "React, Tailwind, Vercel",
     url: "https://website-inteo-3egs-amber.vercel.app/",
