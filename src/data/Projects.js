@@ -40,4 +40,11 @@ export const projects = [
     skills: "React, Tailwind, Vercel",
     url: "https://ecommerce-app-seven-indol.vercel.app/",
   },
+  {
+    id: 6,
+    img: img5,
+    title: "INTEO Website",
+    skills: "React, Tailwind, Vercel",
+    url: "https://website-inteo-3egs-amber.vercel.app/",
+  },
 ];
